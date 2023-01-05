@@ -2,7 +2,7 @@
 
 *Building a chess bot using a convolutional neural network inspired by Stockfish*
 
-Presenting my final project at Spcied Academy Data Science bootcamp
+Presenting my final project at the Spiced Academy Data Science bootcamp
 
 ## The approach
 
