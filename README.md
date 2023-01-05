@@ -4,7 +4,7 @@
 
 Presenting my final project at the Spiced Academy Data Science bootcamp
 
-`npm install` and then `npm start` to start front-end server and 'npm start-api` to start api server
+`npm install` and then `npm start` to start front-end server and `npm start-api` to start api server
 
 ## The approach
 
